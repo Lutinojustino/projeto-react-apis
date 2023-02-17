@@ -25,7 +25,7 @@ Esta página mostra informações adicionais sobre o pokémon selecionado.
 ## 📌 Como rodar este projeto?
 Você pode acessar o site clicando no link:
 <br/>
-[pokedex.built.by.lutinojustino.surge.sh]()
+[pokedex.built.by.lutinojustino.surge.sh](https://projeto-pokedex-labenu.surge.sh)
 
 
 ## 💻 Funcionalidades
